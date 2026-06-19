@@ -9,7 +9,7 @@ dependencies:
 
   # Since the following components need to be patched, a fixed version is used here
   espressif/esp_websocket_client: "1.5.0"
-  espressif/gmf_core: "0.6.1"
+  espressif/gmf_core: '^1.0'
   espressif/esp_lvgl_port: "2.6.0"
 
   esp_vocat:
