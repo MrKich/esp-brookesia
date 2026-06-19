@@ -38,7 +38,7 @@ dependencies:
 
   # AI Framework - Agent
   espressif/esp_coze:
-    version: '^0.6'
+    version: '^1.0'
     public: true
   espressif/gmf_core:
     version: '^1.0'
