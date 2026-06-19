@@ -44,7 +44,7 @@ dependencies:
     version: "^0.6"
     public: true
   espressif/gmf_ai_audio:
-    version: '^0.6'
+    version: '^1.0'
     public: true
     rules:
       - if: "target in [esp32p4, esp32s3, esp32]"
