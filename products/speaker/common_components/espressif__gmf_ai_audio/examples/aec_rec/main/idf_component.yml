@@ -5,9 +5,9 @@ dependencies:
   espressif/esp_audio_codec:
     version: "~2.2"
   espressif/gmf_io:
-    version: "^0.6"
+    version: '^1.0'
   espressif/gmf_misc:
-    version: "^0.6"
+    version: '^1.0'
   espressif/gmf_audio:
     version: '^1.0'
   espressif/gmf_ai_audio:

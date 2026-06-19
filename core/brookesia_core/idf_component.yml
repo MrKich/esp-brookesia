@@ -49,16 +49,16 @@ dependencies:
     rules:
       - if: "target in [esp32p4, esp32s3, esp32]"
   espressif/gmf_io:
-    version: "^0.6"
+    version: '^1.0'
     public: true
   espressif/gmf_misc:
-    version: "^0.6"
+    version: '^1.0'
     public: true
   espressif/gmf_audio:
     version: '^1.0'
     public: true
   espressif/esp_audio_simple_player:
-    version: '0.9.3'
+    version: '1.0.0'
     public: true
   espressif/esp_websocket_client:
     version: "^1.2.3"
